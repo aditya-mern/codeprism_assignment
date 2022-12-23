@@ -1,0 +1,11 @@
+.list{
+    color: rgb(19, 17, 17);
+}
+.button1{
+    padding: 7px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    background-color: lightblue;
+    cursor: pointer;
+}
